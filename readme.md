@@ -15,31 +15,39 @@ Resources for students at Monash universities
 ## Apps
 
 ### Monash Apps
-[App store](https://apps.apple.com/us/developer/monash-university/id427380448)
+[**App store**](https://apps.apple.com/us/developer/monash-university/id427380448)
 
-[Play store](https://play.google.com/store/apps/developer?id=Monash+University)
+[**Play store**](https://play.google.com/store/apps/developer?id=Monash+University)
 
 ### Lost on campus app from Student VIP (Third party)
-[App store](https://apps.apple.com/au/app/lost-on-campus/id488598630)
+**Australian students only**
 
-[Play store](https://play.google.com/store/apps/details?id=com.studentservices.lostoncampus)
+[**App store**](https://apps.apple.com/au/app/lost-on-campus/id488598630)
+
+[**Play store**](https://play.google.com/store/apps/details?id=com.studentservices.lostoncampus)
 
 
-## Discussion boards
+## Discussion boards (Third party)
 
-### [Monash Reddit page](https://www.reddit.com/r/monash)
+### [Monash subreddit (Reddit)](https://www.reddit.com/r/monash)
 
 ### [Monash stalkerspace (Facebook)](https://www.facebook.com/groups/128644980491374)
 
 
 ## On campus
 
-### [campus life](https://www.monash.edu/campus-life/home)
+### [Campus life](https://www.monash.edu/campus-life/home)
 
 ### [Clubs, societies and groups](https://www.monash.edu/campus-life/clubs)
 
 ### [Student associations](https://www.monash.edu/campus-life/associations)
 
+
+## Jobs and Volunteering
+
+### [Career gateway](https://careergateway.monash.edu.au/)
+
+### [Student Futures](https://student-futures.monash.edu/monash-activities/find)
 
 ## Other
 
@@ -47,7 +55,9 @@ Resources for students at Monash universities
 
 ### [Monash Scholarships](https://www.monash.edu/study/fees-scholarships/scholarships)
 
-### [Student VIP website(Third party)](https://studentvip.com.au/)
+### [Student VIP website (Third party)](https://studentvip.com.au/)
+**Australian students only**
+
 
 ## To contribute to this repository 
-Simply submit a pull request
+Simply submit a pull/merge request (please don't include any images)
