@@ -3,14 +3,15 @@ Resources for students at Monash universities
 -----
 ## Tools
 
-### [Monash timetable planner](https://will.io/timetables/)
+### [Timetable planner](https://will.io/timetables/)
 
-### [Monash class timetable](https://www.monash.edu/timetables/class)
+### [Class timetable](https://www.monash.edu/timetables/class)
 
-### [Monash course planner](https://monplan.apps.monash.edu/)
+### [Course planner](https://monplan.apps.monash.edu/)
 
-### [Monash Software catalogue](https://www.monash.edu/esolutions/software/catalogue)
+### [Software catalogue](https://www.monash.edu/esolutions/software/catalogue)
 
+### [Print from any device](https://www.monash.edu/esolutions/print/students)
 
 ## Apps
 
@@ -19,8 +20,7 @@ Resources for students at Monash universities
 
 [**Play store**](https://play.google.com/store/apps/developer?id=Monash+University)
 
-### Lost on campus app from Student VIP (Third party)
-**Australian students only**
+### Lost on campus app from Student VIP (Third party) - **Australian students only**
 
 [**App store**](https://apps.apple.com/au/app/lost-on-campus/id488598630)
 
@@ -47,16 +47,15 @@ Resources for students at Monash universities
 
 ### [Career gateway](https://careergateway.monash.edu.au/)
 
-### [Student Futures](https://student-futures.monash.edu/monash-activities/find)
+### [Student futures](https://student-futures.monash.edu/monash-activities/find)
 
 ## Other
 
-### [Monash library guides](https://guides.lib.monash.edu/?b=s)
+### [Library guides](https://guides.lib.monash.edu/?b=s)
 
-### [Monash Scholarships](https://www.monash.edu/study/fees-scholarships/scholarships)
+### [Scholarships](https://www.monash.edu/study/fees-scholarships/scholarships)
 
-### [Student VIP website (Third party)](https://studentvip.com.au/)
-**Australian students only**
+### [Student VIP website (Third party)](https://studentvip.com.au/) - **Australian students only**
 
 
 ## To contribute to this repository 
