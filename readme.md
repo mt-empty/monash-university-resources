@@ -57,6 +57,7 @@ Resources for students at Monash universities
 
 ### [Student VIP website (Third party)](https://studentvip.com.au/) - **Australian students only**
 
+### [Setu results](https://www.monash.edu/ups/setu/about/setu-results): It's great to learn from other's mistakes and not end up in a poorly taught or just plain boring unit, especially when chossing electives.
 
 ## To contribute to this repository 
 Simply submit a pull/merge request (please don't include any images)
